@@ -1,24 +1,30 @@
 [submodule "Loop"]
 	path = Loop
 	url = https://github.com/LoopTranslation/Loop.git
+	branch = dev
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/LoopTranslation/LoopKit.git
+	branch = dev
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/LoopTranslation/CGMBLEKit.git
+	branch = dev
 [submodule "SwiftCharts"]
 	path = SwiftCharts
 	url = https://github.com/i-schuetz/SwiftCharts.git
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
 	url = https://github.com/LoopTranslation/dexcom-share-client-swift.git
+	branch = dev
 [submodule "G4ShareSpy"]
 	path = G4ShareSpy
 	url = https://github.com/LoopTranslation/G4ShareSpy.git
+	branch = dev
 [submodule "rileylink_ios"]
 	path = rileylink_ios
 	url = https://github.com/LoopTranslation/rileylink_ios.git
+	branch = dev
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/LoopKit/Amplitude-iOS.git
@@ -28,6 +34,7 @@
 [submodule "NightscoutService"]
 	path = NightscoutService
 	url = https://github.com/LoopTranslation/NightscoutService.git
+	branch = dev
 [submodule "Minizip"]
 	path = Minizip
 	url = https://github.com/dexman/Minizip.git
