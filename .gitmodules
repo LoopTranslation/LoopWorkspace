@@ -1,24 +1,24 @@
 [submodule "Loop"]
 	path = Loop
-	url = https://github.com/LoopKit/Loop.git
+	url = https://github.com/LoopTranslation/Loop.git
 [submodule "LoopKit"]
 	path = LoopKit
-	url = https://github.com/LoopKit/LoopKit.git
+	url = https://github.com/LoopTranslation/LoopKit.git
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
-	url = https://github.com/LoopKit/CGMBLEKit.git
+	url = https://github.com/LoopTranslation/CGMBLEKit.git
 [submodule "SwiftCharts"]
 	path = SwiftCharts
 	url = https://github.com/i-schuetz/SwiftCharts.git
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
-	url = https://github.com/LoopKit/dexcom-share-client-swift.git
+	url = https://github.com/LoopTranslation/dexcom-share-client-swift.git
 [submodule "G4ShareSpy"]
 	path = G4ShareSpy
-	url = https://github.com/LoopKit/G4ShareSpy.git
+	url = https://github.com/LoopTranslation/G4ShareSpy.git
 [submodule "rileylink_ios"]
 	path = rileylink_ios
-	url = https://github.com/ps2/rileylink_ios.git
+	url = https://github.com/LoopTranslation/rileylink_ios.git
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/LoopKit/Amplitude-iOS.git
@@ -27,7 +27,7 @@
 	url = https://github.com/LoopKit/MKRingProgressView.git
 [submodule "NightscoutService"]
 	path = NightscoutService
-	url = https://github.com/ps2/NightscoutService.git
+	url = https://github.com/LoopTranslation/NightscoutService.git
 [submodule "Minizip"]
 	path = Minizip
 	url = https://github.com/dexman/Minizip.git
