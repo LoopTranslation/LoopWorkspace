@@ -1,4 +1,6 @@
-# LoopWorkspace
+# LoopWorkspace - Not for production use!
+
+Use only for testning translations!!! Not for production use!
 
 ## Clone
 
@@ -7,10 +9,9 @@ This repository uses git submodules to pull in the various workspace dependencie
 To clone this repo:
 
 ```
-git clone --branch=<branch> --recurse-submodules https://github.com/LoopKit/LoopWorkspace
+git clone --branch=dev --recurse-submodules https://github.com/LoopTranslation/LoopWorkspace
 ```
 
-Replace `<branch>` with the initial LoopWorkspace repository branch you wish to checkout.
 
 ## Open
 
